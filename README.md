@@ -43,9 +43,12 @@ Inheritance memungkinkan reuse code
 Scope menentukan akses variabel
 Module membantu modularisasi program
 
+---
+
 👨‍💻 Author
 Alfadrian Januarsyah (231001067)
 
+---
 
 ⭐ Support
 Jika repository ini membantu:
@@ -54,7 +57,7 @@ Jika repository ini membantu:
 🍴 Fork untuk belajar
 💬 Beri feedback
 
-
+---
 
 
 
