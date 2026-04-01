@@ -37,21 +37,6 @@ Setelah mempelajari notebook ini, Anda akan mampu:
 
 ---
 
-## 🖥️ Preview Notebook
-
-Contoh penggunaan class:
-
-```python
-class Person:
-    def __init__(self, name, age):
-        self.name = name
-        self.age = age
-
-person1 = Person("John", 36)
-print(person1.name)
-
-
-
 🧠 Insight Penting
 Python adalah dynamically typed
 Inheritance memungkinkan reuse code
@@ -59,14 +44,18 @@ Scope menentukan akses variabel
 Module membantu modularisasi program
 
 👨‍💻 Author
-
 Alfadrian Januarsyah (231001067)
 
 
 ⭐ Support
-
 Jika repository ini membantu:
 
 ⭐ Star repo ini
 🍴 Fork untuk belajar
 💬 Beri feedback
+
+
+
+
+
+
