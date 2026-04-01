@@ -37,27 +37,11 @@ Setelah mempelajari notebook ini, Anda akan mampu:
 
 ---
 
-🧠 Insight Penting
-Python adalah dynamically typed
-Inheritance memungkinkan reuse code
-Scope menentukan akses variabel
-Module membantu modularisasi program
-
----
-
 👨‍💻 Author
 Alfadrian Januarsyah (231001067)
 
 ---
 
-⭐ Support
-Jika repository ini membantu:
-
-⭐ Star repo ini
-🍴 Fork untuk belajar
-💬 Beri feedback
-
----
 
 
 
