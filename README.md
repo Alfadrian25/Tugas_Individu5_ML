@@ -30,23 +30,10 @@ Setelah mempelajari notebook ini, Anda akan mampu:
 
 ---
 
-## 📂 Struktur Materi
+## ▶️ Video Penjelasan
 
-
-Basic Python Part 4
-│
-├── Class & Object
-├── Method & Constructor
-├── Inheritance
-│ ├── Single Inheritance
-│ └── Multiple Inheritance
-├── Scope
-│ ├── Local Scope
-│ └── Global Scope
-└── Module
-├── Custom Module
-└── Built-in Module (os)
-
+🎥 Tonton penjelasan lengkap di YouTube:
+👉 https://youtu.be/ezgc7iZmZrk?si=cMukY1F9naIt7dlN
 
 ---
 
@@ -63,19 +50,7 @@ class Person:
 person1 = Person("John", 36)
 print(person1.name)
 
-▶️ Video Penjelasan
 
-🎥 Tonton penjelasan lengkap di YouTube:
-👉 https://youtu.be/ezgc7iZmZrk?si=cMukY1F9naIt7dlN
-
-
-Clone repository:
-
-- git clone https://github.com/username/repo-name.git
-
-- Buka dengan Jupyter Notebook / VSCode
-
-- Jalankan setiap cell secara berurutan
 
 🧠 Insight Penting
 Python adalah dynamically typed
